@@ -1,6 +1,5 @@
 /*
-Copyright (c) 2017, AverageSecurityGuy
-# All rights reserved.
+
 
 Simple Go script to test a username and password list against an HTTP Basic
 Auth server. Example usage and output:
